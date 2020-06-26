@@ -13,7 +13,7 @@ Cree esta red genetica  creada en https://genemania.org/search/arabidopsis-thali
 <img src="https://raw.githubusercontent.com/LeonardoDBM/Red_Arabidopsis/master/genemania-network(2).jpg" width="500">
 
 ## Interacciones fisicas 
- RAP2-13/OLEO interaccionan fisica menten con otrso genes pero no entre ellos 
+ RAP2-13/OLEO interaccionan fisica menten con otros genes pero no entre ellos 
  
 <img src="https://raw.githubusercontent.com/LeonardoDBM/Red_Arabidopsis/master/genemania-network.jpg" width="400">
 
