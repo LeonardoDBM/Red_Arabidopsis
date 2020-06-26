@@ -8,11 +8,11 @@ Cree esta red genetica  creada en https://genemania.org/search/arabidopsis-thali
 - OLEO1 (https://www.arabidopsis.org/servlets/TairObject?type=locus&name=AT4G25140 ) :   	Codifica oleosina1, una proteína que se encuentra en los cuerpos oleosos, involucrada en la acumulación de lípidos en las semillas.
 - PDAT2 (https://www.uniprot.org/uniprot/Q9FYC7):  Función molecular: Actividad de la O-aciltransferasa , Proceso biológico: proceso metabólico de glicerol, proceso metabólico lipídico
 
-## Red de genes RAP2-13/LEA/OLEO1/PDAT2/
+## Red de genes RAP2-13/LEA/OLEO1/PDAT2
 
 <img src="https://raw.githubusercontent.com/LeonardoDBM/Red_Arabidopsis/master/genemania-network(2).jpg" width="400">
 
-
+## Interacciones fisicas de RAP2-13/OLEO
 
 
 
