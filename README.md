@@ -1,4 +1,7 @@
 #  RED ARABIDOPSIS 
+
+ ![img](https://raw.githubusercontent.com/LeonardoDBM/Red_Arabidopsis/master/Arabidopsis-small_NaCJF8G-615x340.jpg)
+
 Cree esta red genetica  creada en https://genemania.org/search/arabidopsis-thaliana/ con los siguientes genes : 
 - RAP2-13 (https://www.uniprot.org/uniprot/Q9LM15): Probablemente actúa como un activador transcripcional. Se une al elemento promotor relacionado con la patogénesis de la caja de CCG. Puede estar involucrado en la regulación de la expresión génica por factores de estrés y por componentes de las vías de transducción de señales de estrés (por similitud).
 - LEA (https://www.uniprot.org/uniprot/Q96261):  Tiene la funcion de aclimatación en frío Fuente, respuesta al ácido abscísico Fuente, respuesta a la privación de agua.
